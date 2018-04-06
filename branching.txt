@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi, I had created this is a text file name branching.txt.
 Use git checkout -b [branchname] to create and switch to the new branch
 Testing merge conflict between portfolio6 branch and master branch.
+=======
+This is a new text file created name branching.txt.
+Use git checkout -b [branchname] to create and switch to the new branch
+Testing merge conflict b n m haih
+>>>>>>> portfolio6
