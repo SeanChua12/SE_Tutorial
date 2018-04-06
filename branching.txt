@@ -1,0 +1,2 @@
+This is a text file name branching.txt.
+Use git checkout -b [branchname] to create and switch to the new branch
