@@ -1,3 +1,3 @@
-This is a text file name branching.txt.
+This is a new text file created name branching.txt.
 Use git checkout -b [branchname] to create and switch to the new branch
-Testing merge conflict
+Testing merge conflict b n m haih
